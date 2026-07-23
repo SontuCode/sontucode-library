@@ -1,0 +1,22 @@
+{
+  "name": "@sontucode/ui-button",
+  "author": {
+    "name": "SontuCoder",
+    "url": "https://github.com/SontuCoder"
+  },
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "scripts": {
+    "build": "tsup"
+  }
+}

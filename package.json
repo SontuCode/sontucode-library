@@ -1,35 +1,32 @@
 {
-  "name": "sontucode-library",
-  "version": "0.1.0",
-  "private": true,
+  "name": "sontucode-ui",
+  "version": "1.0.0",
+  "description": "Open-source UI components, icons, hooks, and utilities for building modern applications.",
+  "homepage": "https://github.com/SontuCoder/sontucode-library#readme",
+  "bugs": {
+    "url": "https://github.com/SontuCoder/sontucode-library/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SontuCoder/sontucode-library.git"
+  },
+  "license": "MIT",
+  "author": "SontuCoder",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm --filter './packages/*' run build"
   },
   "dependencies": {
-    "next": "16.2.10",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
     "@types/react": "^19.2.17",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.10",
-    "tailwindcss": "^4",
-    "tsup": "^8.5.1",
-    "typescript": "5.9.2"
-  },
-  "ignoreScripts": [
-    "sharp",
-    "unrs-resolver"
-  ],
-  "trustedDependencies": [
-    "sharp",
-    "unrs-resolver"
-  ]
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.2.0",
+    "react": "19.1",
+    "react-dom": "19.1",
+    "tailwindcss": "file:4.1@tailwindcss/vite@4.1",
+    "tsup": "8.5",
+    "typescript": "5.9",
+    "vite": "^7.3.6"
+  }
 }
