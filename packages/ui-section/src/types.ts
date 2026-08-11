@@ -1,9 +1,9 @@
-interface navpeer {
+export interface navpeer {
     name: string,
     href: string
 }
 
-interface navlinks{
-    navs: navpeer[]
+export interface navlinks{
+    navs: navpeer[],
+    heading: string
 }
-

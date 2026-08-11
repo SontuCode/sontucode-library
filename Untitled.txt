@@ -1,0 +1,108 @@
+
+
+**Navigation**
+- Navbar / Header
+- Sidebar
+- Breadcrumbs
+- Tabs
+- Pagination
+- Dropdown Menu
+- Stepper / Wizard
+
+**Inputs & Forms**
+- Button (primary, secondary, ghost, icon)
+- Text Input / Textarea
+- Select / Combobox
+- Checkbox / Radio Button
+- Toggle / Switch
+- Slider / Range Input
+- Date Picker
+- Time Picker
+- File Upload / Dropzone
+- Search Bar
+- OTP / PIN Input
+
+**Feedback & Status**
+- Alert / Banner
+- Toast / Snackbar
+- Modal / Dialog
+- Tooltip
+- Popover
+- Progress Bar
+- Spinner / Loader
+- Skeleton Loader
+- Badge
+- Empty State
+
+**Data Display**
+- Card
+- Table / Data Grid
+- List
+- Accordion / Collapsible
+- Avatar
+- Tag / Chip
+- Timeline
+- Carousel / Slider
+- Rating (stars)
+- Stat / Metric Card
+
+**Overlay & Layout**
+- Drawer / Off-canvas
+- Sheet
+- Command Palette (like Cmd+K search)
+- Context Menu
+- Divider
+- Grid / Container
+
+**Advanced / Trending**
+- Kanban Board
+- Calendar / Scheduler
+- Chart components (bar, line, pie)
+- Data Table with filters/sorting
+- Multi-step Form
+- Notification Center
+- Chat / Comment Widget
+- Pricing Table
+- Testimonial Card
+
+===========================
+
+My Recommended Roadmap
+Version 1.0
+Button
+Input
+Textarea
+Card
+Badge
+Avatar
+Spinner
+Skeleton
+Label
+Separator
+Version 2.0
+Dialog
+Tooltip
+Dropdown Menu
+Popover
+Toast
+Tabs
+Accordion
+Version 3.0
+Checkbox
+Switch
+Radio
+Select
+Combobox
+Autocomplete
+Version 4.0
+Table
+Pagination
+Breadcrumb
+Calendar
+Date Picker
+Version 5.0
+Command Menu
+File Upload
+Data Grid
+JSON Viewer
+Markdown Viewer
