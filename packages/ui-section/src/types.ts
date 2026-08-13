@@ -1,9 +1,9 @@
-export interface navpeer {
+export interface NavItem {
     name: string,
     href: string
 }
 
-export interface navlinks{
-    navs: navpeer[],
+export interface SontuNavProps{
+    navs: NavItem[],
     heading: string
 }
